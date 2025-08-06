@@ -1,0 +1,25 @@
+{
+  "name": "POO-Herança",
+  "version": "1.0.0",
+  "description": "Projeto de exemplo para demonstrar conceitos de Programação Orientada a Objetos e herança.",
+  "main": "src/main.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/usuario/POO-Herança.git"
+  },
+  "keywords": [
+    "POO",
+    "herança",
+    "typescript"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT"
+}
